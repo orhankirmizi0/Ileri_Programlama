@@ -1,0 +1,6 @@
+@Ileri_Programlama_HostAddress = http://localhost:5012
+
+GET {{Ileri_Programlama_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
